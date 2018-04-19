@@ -19,11 +19,11 @@ console.log(divide(8, 4));
 
 
 function inc(n) {
-  return n++;
+  return n += 1;
 }
 
 function dec(n) {
-  return n--;
+  return n -= 1;
 }
 
 function makeInt(n) {
