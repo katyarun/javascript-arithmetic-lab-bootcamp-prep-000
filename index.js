@@ -16,3 +16,8 @@ function divide(a, b) {
 
 
 console.log(divide(8, 4));
+
+
+function inc(n) {
+  return n + 1;
+}
